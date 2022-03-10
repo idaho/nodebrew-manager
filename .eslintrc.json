@@ -1,0 +1,19 @@
+{
+  "root": true,
+  "extends": "@fltri",
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module",
+    "project": "./tsconfig.json"
+  },
+  "ignorePatterns": [
+    "dist",
+    "**/*.d.ts"
+  ],
+  "rules": {
+    "unicorn/prefer-node-protocol": [
+      "off"
+    ]
+  }
+}
