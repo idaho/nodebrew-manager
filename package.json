@@ -14,7 +14,8 @@
   },
   "homepage": "https://github.com/idaho/nodebrew-manager#readme",
   "scripts": {
-    "lint": "eslint src/ --ext ts"
+    "qa": "npm run lint",
+    "lint": "npx eslint src/ --ext .ts"
   },
   "devDependencies": {
     "@fltri/eslint-config": "1.1.0",
