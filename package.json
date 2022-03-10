@@ -14,7 +14,8 @@
   },
   "homepage": "https://github.com/idaho/nodebrew-manager#readme",
   "scripts": {
-    "qa": "npm run lint",
+    "qa": "npm run lint && npm run test",
+    "test": "echo \"Error: no test specified\" && exit 0",
     "lint": "npx eslint src/ --ext .ts"
   },
   "devDependencies": {
