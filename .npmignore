@@ -1,0 +1,9 @@
+.github/
+.vscode/
+src/
+.eslintrc.json
+.eslintignore
+.releaserc.json
+jest.config.js
+test/
+tsconfig.json
