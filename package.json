@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@fltri/eslint-config": "1.1.0",
-    "@typescript-eslint/eslint-plugin": "5.14.0",
+    "@typescript-eslint/eslint-plugin": "5.16.0",
     "@typescript-eslint/parser": "5.14.0",
     "eslint": "8.12.0",
     "rimraf": "3.0.2",
