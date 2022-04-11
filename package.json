@@ -19,7 +19,7 @@
     "lint": "npx eslint src/ --ext .ts"
   },
   "devDependencies": {
-    "@fltri/eslint-config": "1.1.1",
+    "@fltri/eslint-config": "1.1.2",
     "@typescript-eslint/eslint-plugin": "5.17.0",
     "@typescript-eslint/parser": "5.18.0",
     "eslint": "8.12.0",
